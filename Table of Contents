@@ -1,0 +1,59 @@
+## Table of Contents ##
+
+# 0.  Introduction to Baysig
+# 1.  Fundamentals #
+      
+      1.a.  Data Types
+      
+            1.a.1.  Mathematical
+            1.a.2.  User Defined Types
+            
+      1.b.  Operators
+      1.c.  Functions
+      1.d.  Groups
+      
+            1.d.1.  Pairs
+            1.d.2.  Lists
+            1.d.3.  Records
+            
+      1.e.  Probability Distributions
+      
+            1.e.1.  Common Distributions
+            1.e.2.  User defined
+            
+      
+      1.f.  Differential Equations
+      
+            1.f.1.  Deterministic
+            1.f.2.  Stochastic
+            
+                    1.f.1.a.  Wiener Process Distribution
+                    1.f.1.b.  Defining Stochastic Differential Equations
+                    
+            1.f.3.  Types
+            
+      1.f.  Vectors & Matrices
+      
+  # 2.  Statistical Inference #
+  
+        2.a.  Fundamentals
+        
+              2.a.1.  The estimate statement
+              2.a.2.  The sample statement
+              
+        2.b.  Probability Distributions
+        2.c.  Simple Linear Regression
+        2.d.  Nonlinear Regression
+        2.e.  ANOVA
+        2.f.  Dynamical Systems
+        2.g.  Logistic Regression 
+        
+      
+      
+      
+# Bone Pile #
+
+Portals
+
+            
+      
